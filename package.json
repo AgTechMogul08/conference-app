@@ -4,7 +4,7 @@
     "author": "Raul Ramirez",
     "bugs": "https://github.com/https://github.com/AgTechMogul08/conference-app/https://github.com/AgTechMogul08/conference-app/issues",
     "dependencies": {
-        "lwc-services": "^1.3.8"
+        "lwc-services": "^3.2.2"
     },
     "devDependencies": {
         "husky": "^3.0.9",
